@@ -1,0 +1,14 @@
+{
+  "name": "targz",
+  "version": "0.1.0",
+  "description": "Tar.gz example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simandoff@chaosgroup.com",
+  "license": "MIT",
+  "dependencies": {
+    "tar": "^2.2.1"
+  }
+}
